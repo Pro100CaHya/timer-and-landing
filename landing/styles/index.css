@@ -625,6 +625,7 @@ body {
     .advantages__item-title::before {
         content: url("../img/listStyle.svg");
         display: inline-block;
+        padding-right: 5px;
         vertical-align: 25%;
     }
 
